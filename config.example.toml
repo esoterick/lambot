@@ -1,0 +1,9 @@
+token = "00000000000000000000000000000000000000000000000000000000000"
+
+[transmission]
+proto = "http"
+host = "127.0.0.1"
+port = 9091
+path = "/transmission/rpc"
+username = "transmission"
+password = "transmission"

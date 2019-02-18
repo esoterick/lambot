@@ -13,3 +13,10 @@
 
 # Logs...
 lambot.log
+
+# Configs...
+config.toml
+
+# VSCode
+.vscode
+debug
